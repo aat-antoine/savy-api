@@ -7,15 +7,26 @@
       "birthdate": "1981/05/12",
       "email": "test@test.com",
       "password": "eceadf7481549a01d847cd3bf518f2e52c11c27c81d2f330cac16db08392bcd7a3923d5a081ae6dd5cf9dad59aa7e25c0998999908149f8cf0b1276922a39ea4",
-      "bio": "Lorem ipsum"
+      "bio": "Lorem ipsum",
+      "profileUrl": "https://drive.google.com/thumbnail?id=1M0bpRMqLgVXU4wdvRzsFpaPZvFGVV7Tu"
     }, {
       "id": 2,
-      "firstname": "test2",
-      "lastname": "test2",
+      "firstname": "Cyril",
+      "lastname": "Akamo",
       "birthdate": "1982/02/02",
       "email": "test2@test.com",
       "password": "eceadf7481549a01d847cd3bf518f2e52c11c27c81d2f330cac16db08392bcd7a3923d5a081ae6dd5cf9dad59aa7e25c0998999908149f8cf0b1276922a39ea4",
-      "bio": "This is my story"
+      "bio": "I'm a super commenter. I'm a man",
+      "profileUrl": "https://drive.google.com/thumbnail?id=1M0bpRMqLgVXU4wdvRzsFpaPZvFGVV7Tu"
+    }, {
+      "id": 3,
+      "firstname": "Jenifer",
+      "lastname": "Starla",
+      "birthdate": "1982/02/02",
+      "email": "test2@test.com",
+      "password": "eceadf7481549a01d847cd3bf518f2e52c11c27c81d2f330cac16db08392bcd7a3923d5a081ae6dd5cf9dad59aa7e25c0998999908149f8cf0b1276922a39ea4",
+      "bio": "I'm a super commenter. I'm a woman",
+      "profileUrl": "https://drive.google.com/thumbnail?id=1G1rBgSxKou1zQyUXJdyxAZu2EffrGL71"
     }
   ],
   "posts": [
@@ -43,6 +54,11 @@
     {
       "id": 1,
       "userId": 1,
+      "user": {
+        "profileUrl": "https://drive.google.com/open?id=1M0bpRMqLgVXU4wdvRzsFpaPZvFGVV7Tu",
+        "firstname": "Cyril",
+        "lastname": "Akamo"
+      },
       "postId": 1,
       "content": "Super ces charrues",
       "date": "2019-11-20T15:00:00Z"
