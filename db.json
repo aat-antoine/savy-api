@@ -24,7 +24,24 @@
       "userId": 1,
       "title": "Grand jeu concours",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "date": "20/11/2019"
+      "date": "20/11/2019",
+      "likedBy": [1, 2],
+      "highlight": false
+    }, {
+      "id": 2,
+      "userId": 1,
+      "title": "Concert de rentrée",
+      "content": "Et comme à son habitude, on retrouve tous nos sponsors",
+      "date": "20/11/2019",
+      "likedBy": [],
+      "highlight": false
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "userId": 1,
+      "content": "Super ces charrues",
     }
   ]
 }
