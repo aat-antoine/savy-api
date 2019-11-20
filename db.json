@@ -6,7 +6,16 @@
       "lastname": "test",
       "birthdate": "1981/05/12",
       "email": "test@test.com",
-      "password": "eceadf7481549a01d847cd3bf518f2e52c11c27c81d2f330cac16db08392bcd7a3923d5a081ae6dd5cf9dad59aa7e25c0998999908149f8cf0b1276922a39ea4"
+      "password": "eceadf7481549a01d847cd3bf518f2e52c11c27c81d2f330cac16db08392bcd7a3923d5a081ae6dd5cf9dad59aa7e25c0998999908149f8cf0b1276922a39ea4",
+      "bio": "Lorem ipsum"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Grand jeu concours",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "date": "20/11/2019"
     }
   ]
 }
