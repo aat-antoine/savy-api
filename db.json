@@ -55,6 +55,7 @@
       "id": 1,
       "userId": 1,
       "user": {
+        "id": 1,
         "profileUrl": "https://drive.google.com/open?id=1M0bpRMqLgVXU4wdvRzsFpaPZvFGVV7Tu",
         "firstname": "Cyril",
         "lastname": "Akamo"
