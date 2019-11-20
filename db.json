@@ -2,11 +2,11 @@
   "users": [
     {
       "id": 1,
-      "firstname": "immy",
-      "lastname": "LEFEVR",
+      "firstname": "test",
+      "lastname": "test",
       "birthdate": "1981/05/12",
       "email": "test@test.com",
-      "password": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e"
+      "password": "eceadf7481549a01d847cd3bf518f2e52c11c27c81d2f330cac16db08392bcd7a3923d5a081ae6dd5cf9dad59aa7e25c0998999908149f8cf0b1276922a39ea4"
     }
   ]
 }
