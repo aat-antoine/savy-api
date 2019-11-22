@@ -8,7 +8,7 @@
       "email": "test@test.com",
       "password": "eceadf7481549a01d847cd3bf518f2e52c11c27c81d2f330cac16db08392bcd7a3923d5a081ae6dd5cf9dad59aa7e25c0998999908149f8cf0b1276922a39ea4",
       "bio": "Lorem ipsum",
-      "profileUrl": "https://drive.google.com/thumbnail?id=1M0bpRMqLgVXU4wdvRzsFpaPZvFGVV7Tu"
+      "profileUrl": "https://drive.google.com/thumbnail?id=1x6SehxEaCtBmPMft8Hx6ec6aOm5I95kT"
     }, {
       "id": 2,
       "firstname": "Cyril",
@@ -33,6 +33,11 @@
     {
       "id": 1,
       "userId": 1,
+      "author": {
+        "firstname": "George",
+        "lastname": "Stobbart",
+        "profileUrl": "https://drive.google.com/thumbnail?id=1x6SehxEaCtBmPMft8Hx6ec6aOm5I95kT"
+      },
       "title": "Festival en approche",
       "content": "Après une dure jorunée de labeur viens labourer avec nos vieilles charrues :). Tout est à votre disposition et peut être même encore plus !",
       "date": "2019-11-20T10:00:00Z",
@@ -42,6 +47,11 @@
     }, {
       "id": 2,
       "userId": 1,
+      "author": {
+        "firstname": "George",
+        "lastname": "Stobbart",
+        "profileUrl": "https://drive.google.com/thumbnail?id=1x6SehxEaCtBmPMft8Hx6ec6aOm5I95kT"
+      },
       "title": "Concert de rentrée",
       "content": "Il y aura foule de talents. Le splus grands DJ seront présents et ne manqueront pas de jouer leurs plus célèbres morceaus de l'été alors toi aussi rejoins nous pour ce magnifique événement.",
       "date": "2019-11-20T12:02:00Z",
@@ -54,7 +64,7 @@
     {
       "id": 1,
       "userId": 1,
-      "user": {
+      "author": {
         "id": 1,
         "profileUrl": "https://drive.google.com/thumbnail?id=1M0bpRMqLgVXU4wdvRzsFpaPZvFGVV7Tu",
         "firstname": "Cyril",
@@ -66,7 +76,7 @@
     }, {
       "id": 2,
       "userId": 2,
-      "user": {
+      "author": {
         "id": 2,
         "profileUrl": "https://drive.google.com/thumbnail?id=1G1rBgSxKou1zQyUXJdyxAZu2EffrGL71",
         "firstname": "Jenifer",
